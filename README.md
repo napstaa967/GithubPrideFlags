@@ -57,3 +57,4 @@ Stripe 5: AutoHotkey (.ahk)
 Stripe 6: mIRC Script (.mrc)
 Stripe 7: Xtend (.xtend)
 
+![image](https://user-images.githubusercontent.com/57607350/185306411-236d24a0-d52c-4f64-96c9-8f2412a6ac1b.png)
