@@ -1,5 +1,6 @@
 # GithubPrideFlags
 this is just a comp of pride flags you can make on github, feel free to send me suggestions
+do keep in mind that i do not know if these are controversial or not, do let me know if they are
 
 example:
 
