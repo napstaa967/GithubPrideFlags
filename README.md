@@ -3,7 +3,8 @@ this is just a comp of pride flags you can make on github, feel free to send me 
 
 example:
 
-![image](https://images-ext-1.discordapp.net/external/zAwSNwS5llROFfPR02-H4wqw0zgHqHmf2KsQAWkgTcw/https/opengraph.githubassets.com/3cdca31207a1ae7adb48e61b6ad3161cdc46525d04d70fa0c7d90d0c6b3f57dd/napstaa967/napstaa967)
+![image](https://user-images.githubusercontent.com/57607350/185300408-5c72897b-4f39-4fc2-9fa1-2d6cffdbd052.png)
+
 
 how to make one:
 
