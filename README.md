@@ -43,3 +43,6 @@ Stripe 2: Gleam (.gleam)
 Stripe 3: EmberScript (.em)  
 Stripe 4: Gnuplot (.gnuplot)  
 Stripe 5: kvlang (.kv)  
+
+![image](https://user-images.githubusercontent.com/57607350/185303030-1c872e05-754d-4ff4-8b85-7a782e743ca4.png)
+
