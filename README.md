@@ -55,5 +55,5 @@ Stripe 3: API Blueprint (.apib)
 Stripe 4: EmberScript (.em)  
 Stripe 5: AutoHotkey (.ahk) 
 Stripe 6: mIRC Script (.mrc)
-Stripe 7: ObjectScript (.cls)
+Stripe 7: Xtend (.xtend)
 
