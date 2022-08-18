@@ -20,18 +20,26 @@ the funny way: try to write a working program on those langs
 
 ### Bi
 
-Stripe 1: PogoScript (.pogo)
-Stripe 2: Erlang (.erl)
-Stripe 3: Slice (.ice)
+Stripe 1: PogoScript (.pogo)  
+Stripe 2: Erlang (.erl)  
+Stripe 3: Slice (.ice)  
 
 ![image](https://user-images.githubusercontent.com/57607350/185300225-50a25431-879b-4911-ab3a-1aa6b775138d.png)
 
 
 ### Non-Binary
 
-Stripe 1: Isabelle (.thy)
-Stripe 2: Rich Text Format (.rtf)
-Stripe 3: F# (.fsi)
-Stripe 4: Wren (.wren)
+Stripe 1: Isabelle (.thy)  
+Stripe 2: Rich Text Format (.rtf)  
+Stripe 3: F# (.fsi)  
+Stripe 4: Wren (.wren)  
 
 ![image](https://user-images.githubusercontent.com/57607350/185300257-e2456777-1da0-452f-a77b-eef9ffbee8a6.png)
+
+### Transgender
+
+Stripe 1: Marko (.marko)  
+Stripe 2: Gleam (.gleam)  
+Stripe 3: EmberScript (.em)  
+Stripe 4: Gnuplot (.gnuplot)  
+Stripe 5: kvlang (.kv)  
