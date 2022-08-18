@@ -53,7 +53,7 @@ Stripe 1: Closure Templates (.soy)
 Stripe 2: RobotFramework (.robot)  
 Stripe 3: API Blueprint (.apib)  
 Stripe 4: EmberScript (.em)  
-Stripe 5: AutoHotkey (.ahk) 
+Stripe 5: AutoHotkey (.ahk)  
 Stripe 6: mIRC Script (.mrc)  
 Stripe 7: Xtend (.xtend)  
 
